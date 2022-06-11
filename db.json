@@ -1,12 +1,12 @@
 {
 	"questions": [
-		{"id":1, "question": "Kotlin was developed by?", },
-		{"id":2, "question": "Which of following is used to handle null exceptions in Kotlin?", },
-		{"id":3, "question": "Which file extension is used to save Kotlin files.", },
-		{"id":4, "question": "Kotlin was developed under the .......... license.", },
-		{"id":5, "question": "Which of the followings constructors are available in Kotlin?", },
-		{"id":6, "question": "Is Kotlin compatible with the Java programming language?", },
-		{"id":7, "question": "What is an immutable variable?", }
+		{"id":1, "question": "Kotlin was developed by?" },
+		{"id":2, "question": "Which of following is used to handle null exceptions in Kotlin?" },
+		{"id":3, "question": "Which file extension is used to save Kotlin files." },
+		{"id":4, "question": "Kotlin was developed under the .......... license." },
+		{"id":5, "question": "Which of the followings constructors are available in Kotlin?" },
+		{"id":6, "question": "Is Kotlin compatible with the Java programming language?" },
+		{"id":7, "question": "What is an immutable variable?" }
 	],
 	  "questionnaire": {"name": "DearSantaQuestionnaire" }
   }
