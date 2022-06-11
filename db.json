@@ -1,5 +1,5 @@
 {
-	"questions": [
+	"questionnaire": [
 		{"id":1, "question": "What is you name?" },
 		{"id":2, "question": "How was your attitude this year?" },
 		{"id":3, "question": "What is your first choice gift?" },
