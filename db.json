@@ -8,5 +8,5 @@
 		{"id":6, "question": "What is your favorite drink?" },
 		{"id":7, "question": "What kind of cookies do you like?" }
 	],
-	  "questionnaire": {"name": "DearSantaQuestionnaire" }
+	  "dear_santa": {"name": "DearSantaQuestionnaire" }
   }
