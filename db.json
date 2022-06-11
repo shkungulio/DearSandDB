@@ -136,7 +136,7 @@
 			"correctAnswer": 2
 		}
 	],
-	  "quiz": {
-		  "name": "kotlinQuiz"
+	  "questionnaire": {
+		  "name": "DearSantaQuestionnaire"
 	  }
   }
